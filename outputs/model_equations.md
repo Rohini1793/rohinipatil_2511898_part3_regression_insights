@@ -94,6 +94,28 @@ Multiple Regression Model
 * Better forecasting capability
 * Provides stronger business insight than simple regression models
 
+  Simple Regression Model 2
+
+Equation:
+
+Monthly Sales = 446410.58 + 35.68(Footfall)
+
+Interpretation:
+
+Intercept = 446410.58
+
+Footfall Coefficient = 35.68
+
+For every additional customer visit, monthly sales increase by approximately 35.68 units.
+
+R² = 0.736
+
+P-value = 4.75E-94
+
+Conclusion:
+
+Footfall is statistically significant and is a strong predictor of monthly sales.
+
 ### Business Interpretation
 
 The model demonstrates that customer footfall, marketing investment, inventory availability, and regional factors are important contributors to monthly sales performance. The model is therefore suitable for supporting strategic business decisions and resource allocation.
